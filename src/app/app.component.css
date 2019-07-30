@@ -1,0 +1,8 @@
+.navbar{
+    border-color: black !important;
+    border-bottom-color: black;
+}
+.navbar-toggler{
+    background-color: rgb(179, 219, 245) !important;
+    border-radius: 10px;
+}
